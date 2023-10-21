@@ -3,7 +3,6 @@ package pgdialect
 import (
 	"context"
 	"fmt"
-	"log"
 	"strings"
 
 	"github.com/uptrace/bun"
